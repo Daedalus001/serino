@@ -18,7 +18,7 @@ Payload
     "Latitude":<number>,
     "Longitude":<number>,
     "Distance":<number>,
-    "Prize":<number>
+    "Prize":<number><optional>
 }
 ```
 
