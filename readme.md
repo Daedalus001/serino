@@ -8,7 +8,9 @@
 
 ## Postman Details
 > Endpoint : http://localhost:3000/geolocation
+
 > Method : POST
+
 Payload
 
 ```
